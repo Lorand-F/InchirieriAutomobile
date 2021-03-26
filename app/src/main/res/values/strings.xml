@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InchiriereAutomobile</string>
+    <string name="nume">Nume</string>
+    <string name="dacia">Dacia</string>
+    <string name="renault">Renault</string>
+    <string name="salveaza">Salveaza</string>
+    <string name="alege_numarul_de_zile_inchiriate">Alege numarul de zile inchiriate</string>
+</resources>
